@@ -17,16 +17,16 @@ This project demonstrates a responsive **Flexbox-based card layout** showcasing 
 ```
 project-folder/
 │── README.md         # Project description file
-│── index.html        # Main HTML file
-│── assign6-flex.css  # CSS styles for layout and design
+│── flex.html        # Main HTML file
+│── flex.css  # CSS styles for layout and design
 ```
 
 ## How to Use
 1. Clone or download the repository.
-2. Open `index.html` in a browser.
+2. Open `flex.html` in a browser.
 
 ## Screenshots
-![Flexbox Cards](cards.png) *(Replace with an actual screenshot of your project)*
+![Flexbox Cards](cards.png) 
 
 ## License
 This project is open-source and free to use under the MIT License.
