@@ -26,7 +26,7 @@ project-folder/
 2. Open `index.html` in a browser.
 
 ## Screenshots
-![Flexbox Cards](screenshot.png) *(Replace with an actual screenshot of your project)*
+![Flexbox Cards](cards.png) *(Replace with an actual screenshot of your project)*
 
 ## License
 This project is open-source and free to use under the MIT License.
